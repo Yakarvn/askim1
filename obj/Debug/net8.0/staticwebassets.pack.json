@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\obj\\Debug\\net8.0\\scopedcss\\bundle\\askim.styles.css",
+      "PackagePath": "staticwebassets\\askim.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\videos\\AĞLAYANKEDİ.mp4",
+      "PackagePath": "staticwebassets\\videos\\AĞLAYANKEDİ.mp4"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\videos\\Download (31).mp4",
+      "PackagePath": "staticwebassets\\videos\\Download (31).mp4"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\videos\\background.mp4",
+      "PackagePath": "staticwebassets\\videos\\background.mp4"
+    },
+    {
+      "Id": "C:\\Users\\yakar\\Desktop\\askim\\wwwroot\\videos\\yeah_1_1.webm",
+      "PackagePath": "staticwebassets\\videos\\yeah_1_1.webm"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.askim.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.askim.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.askim.props",
+      "PackagePath": "build\\askim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.askim.props",
+      "PackagePath": "buildMultiTargeting\\askim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.askim.props",
+      "PackagePath": "buildTransitive\\askim.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

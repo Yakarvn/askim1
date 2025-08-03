@@ -1,0 +1,50 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+<div class="renkli-kutu">
+<h1>SEVGİ SAYAÇ</h1>
+
+<p role="status">NE KADAR SEVİYO: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">ATAKANI SEVİYORUM</button>
+</div>
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
+
+<div class="video-background">
+    <video autoplay muted loop playsinline>
+        <source src="videos/background.mp4" type="video/mp4" />
+    </video>
+</div>
+
+<style>
+    .video-background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+        overflow: hidden;
+    }
+
+        .video-background video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+    .icerik {
+        position: relative;
+        z-index: 1;
+        color: white;
+        text-align: center;
+        padding-top: 20vh;
+    }
+</style>
